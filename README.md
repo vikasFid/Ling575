@@ -1,2 +1,2 @@
 # Ling575
-Clinical NLP reposiroty
+Clinical NLP repository
